@@ -22,7 +22,7 @@ The script, `run_analysis.R`, would function in the following ways:
   
   6.Create a tidy data set with the average of each variable for each activity and each subject
   
-The out put is written in the file named `tidydata.txt`.
+The output is written in the file named `tidydata.txt`.
 About the code book
 ------------------
 You can go to the code book `CodeBook.md` for descriptions of the variables.
